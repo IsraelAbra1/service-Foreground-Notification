@@ -11,7 +11,7 @@ import androidx.core.app.NotificationCompat;
 // https://developer.android.com/guide/components/foreground-services
 
 public class PushService extends Service {
-    public PushService() {
+    public PushService() { // -------------
     }
 
     @Override
