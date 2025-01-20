@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main); // -- abcccccccc
+        setContentView(R.layout.activity_main); // -- abcccccccc 1111111111111111111
 
 
         btnPush = (Button)findViewById(R.id.btnPush);
